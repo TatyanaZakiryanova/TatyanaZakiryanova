@@ -27,6 +27,4 @@ and I'm a frontend developer.
 
 ## Contacts
 
-[Telegram]
-[LinkedIn]
 [Email](mailto:taZakiryanova@mail.ru)
