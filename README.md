@@ -1,6 +1,8 @@
-# Hello, I'm Tatyana
+# Hello, I'm Tatyana!
 
-and I'm a frontend developer.
+I'm a frontend developer with a strong passion for working on the logic behind user interfaces.
+
+Here's my [favorite project](https://datanasa.netlify.app/) that showcases my skills. Thanks to the NASA API you can collect space photos :smile:
 
 ## Tech stack:
 
@@ -14,12 +16,12 @@ and I'm a frontend developer.
 ![CSS](https://img.shields.io/badge/CSS-grey?style=for-the-badge&logo=css3)
 ![SASS](https://img.shields.io/badge/SASS-grey?style=for-the-badge&logo=sass)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-grey?style=for-the-badge&logo=tailwindcss)
+![Material UI](https://img.shields.io/badge/material%20UI-grey?style=for-the-badge&logo=mui)
 
 ### In progress:
 
 ![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
 ![React Testing Library](https://img.shields.io/badge/testing%20library-grey?style=for-the-badge&logo=Testing%20Library)
-![Material UI](https://img.shields.io/badge/material%20UI-grey?style=for-the-badge&logo=mui)
 
 ## Portfolio
 
