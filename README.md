@@ -2,7 +2,7 @@
 
 I'm a frontend developer with a strong passion for working on the logic behind user interfaces.
 
-Here's my [favorite project](https://datanasa.netlify.app/) that showcases my skills. Thanks to the NASA API you can collect space photos :smile:
+Here's my [favorite project](https://datanasa.netlify.app/) that showcases my skills. Thanks to the NASA API you can collect space photos :milky_way:
 
 ## Tech stack:
 
