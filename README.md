@@ -26,5 +26,5 @@ Here's my [favorite project](https://datanasa.netlify.app/) that showcases my sk
 
 ## Contacts
 
-[Telegram](https://t.me/tzaranova)
-[Email](mailto:taZakiryanova@mail.ru)
+- [Telegram](https://t.me/tzaranova)
+- [Email](mailto:taZakiryanova@mail.ru)
