@@ -1,8 +1,8 @@
 # Hello, I'm Tatyana!
 
-I'm a frontend developer with a strong passion for working on the logic behind user interfaces.
+I'm a web developer with a strong passion for working on the logic behind user interfaces.
 
-Here's my [favorite project](https://datanasa.netlify.app/) that showcases my skills. Thanks to the NASA API you can collect space photos :milky_way:
+Here's my [favorite project](https://datanasa.netlify.app/). Thanks to the NASA API you can collect space photos in your profile :milky_way:
 
 ## Tech stack:
 
@@ -19,6 +19,9 @@ Here's my [favorite project](https://datanasa.netlify.app/) that showcases my sk
 ![Material UI](https://img.shields.io/badge/material%20UI-grey?style=for-the-badge&logo=mui)
 ![Jest](https://img.shields.io/badge/Jest-grey?style=for-the-badge&logo=jest)
 ![React Testing Library](https://img.shields.io/badge/testing%20library-grey?style=for-the-badge&logo=Testing%20Library)
+![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
+![MongoDB](https://img.shields.io/badge/Mongo%20DB-grey?style=for-the-badge&logo=mongodb)
 
 ## Portfolio
 
