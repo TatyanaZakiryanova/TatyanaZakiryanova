@@ -40,11 +40,9 @@ Frontend app with SSR/ISR, Firebase authentication and Firestore for photo stora
 
 **Stack:** React, Redux, Next.js, Firebase, Tailwind CSS
 
-## 💼 Portfolio
+---
 
 [![Portfolio](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge)](https://portfolio-indol-iota-kgyatabuip.vercel.app/)
-
-## 💡LeetCode
 
 [![LeetCode](https://img.shields.io/badge/LeetCode%20150+-visit-orange?style=for-the-badge&logo=leetcode)](https://leetcode.com/u/tatyanazakiryanova/)
 
