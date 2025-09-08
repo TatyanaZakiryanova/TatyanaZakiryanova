@@ -14,27 +14,28 @@ I'm a fullstack developer.
 ![Redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
 ![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
 
-Also worked with: **TypeORM**, **Prisma ORM**, **MongoDB**, **Mongoose**, **Sass**, **Tailwind CSS**, **MUI**
-
 ## 💻 Featured Projects
 
 ### 🌐 Fullstack Blog
 
-[Frontend](https://github.com/TatyanaZakiryanova/blog-frontend) + [Backend](https://github.com/TatyanaZakiryanova/blog-backend-prisma)  
+[**Frontend**](https://github.com/TatyanaZakiryanova/blog-frontend) + [**Backend**](https://github.com/TatyanaZakiryanova/blog-backend-prisma)
+
 A full-featured blog platform with JWT authentication, image upload and MUI-based UI. Includes creating and editing posts in a markdown editor, filtering posts by tags, and auto-refresh of JWT tokens.
 
 **Stack:** Express, PostgreSQL (Prisma ORM), React, Redux, MUI
 
 ### ⚙️ Nest Backend API
 
-[Nest blog](https://github.com/TatyanaZakiryanova/nest-blog)
+[**Nest blog**](https://github.com/TatyanaZakiryanova/nest-blog)
+
 Backend API with JWT authentication, RBAC, cloud file uploads, and WebSocket support for real-time features.
 
 **Stack:** Nest.js, PostgreSQL (TypeORM)
 
 ### 🌌 NASA Data
 
-[NASA-data](https://github.com/TatyanaZakiryanova/nasa-data)
+[**NASA-data**](https://github.com/TatyanaZakiryanova/nasa-data)
+
 Frontend app with SSR/ISR, Firebase authentication and Firestore for photo storage.
 
 **Stack:** React, Redux, Next.js, Firebase, Tailwind CSS
