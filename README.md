@@ -6,41 +6,33 @@ I'm a fullstack developer.
 
 ![JavaScript](https://img.shields.io/badge/javascript-grey?style=for-the-badge&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/typescript-grey?style=for-the-badge&logo=typescript)
-
-### Backend
-
+![SQL](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=postgresql)
 ![Node.js](https://img.shields.io/badge/Node.js-grey?style=for-the-badge&logo=node.js)
 ![Express](https://img.shields.io/badge/Express-grey?style=for-the-badge&logo=express)
 ![Nest.js](https://img.shields.io/badge/Nest.js-grey?style=for-the-badge&logo=nestjs)
-![PostgreSQL](https://img.shields.io/badge/sql-grey?style=for-the-badge&logo=postgresql)
-
-Also worked with: **TypeORM**, **Prisma ORM**, **MongoDB**, **Mongoose**
-
-### Frontend
-
 ![React](https://img.shields.io/badge/react-grey?style=for-the-badge&logo=react)
 ![Redux](https://img.shields.io/badge/redux-grey?style=for-the-badge&logo=redux)
 ![Next.js](https://img.shields.io/badge/Next.js-grey?style=for-the-badge&logo=next.js)
 
-Also worked with: **Sass**, **Tailwind CSS**, **MUI**
+Also worked with: **TypeORM**, **Prisma ORM**, **MongoDB**, **Mongoose**, **Sass**, **Tailwind CSS**, **MUI**
 
 ## 💻 Featured Projects
 
-### 🌐 Fullstack blog app
+### 🌐 Fullstack Blog
 
 [Frontend](https://github.com/TatyanaZakiryanova/blog-frontend) + [Backend](https://github.com/TatyanaZakiryanova/blog-backend-prisma)  
 A full-featured blog platform with JWT authentication, image upload and MUI-based UI. Includes creating and editing posts in a markdown editor, filtering posts by tags, and auto-refresh of JWT tokens.
 
 **Stack:** Express, PostgreSQL (Prisma ORM), React, Redux, MUI
 
-### ⚙️ Nest backend API
+### ⚙️ Nest Backend API
 
 [Nest blog](https://github.com/TatyanaZakiryanova/nest-blog)
 Backend API with JWT authentication, RBAC, cloud file uploads, and WebSocket support for real-time features.
 
 **Stack:** Nest.js, PostgreSQL (TypeORM)
 
-### 🌌 NASA-data
+### 🌌 NASA Data
 
 [NASA-data](https://github.com/TatyanaZakiryanova/nasa-data)
 Frontend app with SSR/ISR, Firebase authentication and Firestore for photo storage.
@@ -49,7 +41,7 @@ Frontend app with SSR/ISR, Firebase authentication and Firestore for photo stora
 
 ## 💼 Portfolio
 
-[![Portfolio](https://img.shields.io/badge/portfolio-grey?style=for-the-badge)](https://portfolio-indol-iota-kgyatabuip.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/portfolio-visit-blue?style=for-the-badge)](https://portfolio-indol-iota-kgyatabuip.vercel.app/)
 
 ## 💡LeetCode
 
