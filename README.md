@@ -20,13 +20,13 @@ I'm a fullstack developer.
 
 [**Frontend**](https://github.com/TatyanaZakiryanova/blog-frontend) + [**Backend**](https://github.com/TatyanaZakiryanova/blog-backend-prisma)
 
-A full-featured blog platform with JWT authentication, image upload and MUI-based UI. Includes creating and editing posts in a markdown editor, filtering posts by tags, and auto-refresh of JWT tokens.
+A full-featured blog platform with JWT authentication, image upload and MUI. Includes creating and editing posts in a markdown editor, filtering posts by tags, and auto-refresh of JWT tokens.
 
 **Stack:** Express, PostgreSQL (Prisma ORM), React, Redux, MUI
 
 ### ⚙️ Nest Backend API
 
-[**Nest blog**](https://github.com/TatyanaZakiryanova/nest-blog)
+[**Nest Blog**](https://github.com/TatyanaZakiryanova/nest-blog)
 
 Backend API with JWT authentication, RBAC, cloud file uploads, and WebSocket support for real-time features.
 
@@ -34,11 +34,11 @@ Backend API with JWT authentication, RBAC, cloud file uploads, and WebSocket sup
 
 ### 🌌 NASA Data
 
-[**NASA-data**](https://github.com/TatyanaZakiryanova/nasa-data)
+[**NASA Data**](https://github.com/TatyanaZakiryanova/nasa-data)
 
 Frontend app with SSR/ISR, Firebase authentication and Firestore for photo storage.
 
-**Stack:** React, Redux, Next.js, Firebase, Tailwind CSS
+**Stack:** Next.js, Redux, Firebase, Tailwind CSS
 
 ## 🪟 More
 
